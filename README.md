@@ -1,11 +1,14 @@
 ## OBS Studio を用いた授業動画の作成 (Windows and Japanese version only)  
 
+DEMO→[YouTube](https://www.youtube.com/watch?v=ogxKhS5n1Gk)を見てください  
+この程度の動画であれば、簡単に作れます  
 
 ### OBS Studio の動作環境  
 「OBS Studio の Windows リリースでは、Windows 8、8.1 および 10 をサポートしています」
 の記載があるのみ  
 CPU Core i5 , RAM 8GB 以上がスムーズに動く環境だと思うのですが、  
-それ以下の CPU ,RAM 4GB でもある程度は録画可能　　 
+それ以下の環境でもある程度は録画可能  
+上記動画は CPU 1.20GHz, 4GB のためスムーズな映像ではありません  
 
 ### 周辺機器
 - パソコン内蔵カメラ または、外付けのwebカメラ(現在品薄)
@@ -16,7 +19,7 @@ CPU Core i5 , RAM 8GB 以上がスムーズに動く環境だと思うのです�
 ダウンロード、インストーラをクリック  
 OBS-Studio-25.0.8-Full-Installer-x64.exeを実行  
 C:\Program Files\obs-studioにインストール  
-デスクトップに OBS Studio のアイコンができます。  
+デスクトップに OBS Studio のアイコンができます  
 自動ウイザード はいいえ、OK  
  
 
@@ -55,11 +58,12 @@ FPS共通値は30　OK
 ソースの下の＋をクリック  
 既存を追加　OK  
 カメラの映像は 順序→最上部に移動  
-映像画面 カメラとPDFの映像を好みの大きさ・位置に　ロックプレビュー　check<img src="./readme_images/obs_disktop.png">   
+映像画面 カメラとPDFの映像を好みの大きさ・位置に　ロックプレビュー  check  
+　<img src="./readme_images/obs_disktop.png">   
 
 1. 右の PDF閲覧ソフトの画面をclickしてスクロール  
-左のOBSの画面もそれに伴って動く筈です。  
-録画開始をclickし、シーンを切り替え、好みの授業動画を作ってみてください。  
-DEMO→[YouTube](https://www.youtube.com/watch?v=ogxKhS5n1Gk) (CPU 1.20GHz, 4GB のためスムーズな映像ではありません)
+左のOBSの画面もそれに伴って動く筈です  
+録画開始をclickし、シーンを切り替え、好みの授業動画を作ってみてください  
+
 
 
