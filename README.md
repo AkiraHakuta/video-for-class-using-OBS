@@ -26,18 +26,17 @@ C:\Program Files\obs-studioにインストール
 Web ブラウザ(Google Chrome 等) でも閲覧可能  
 
 ### OBS Studio の使い方
+
 <ol>
 <li>
-pdf 閲覧ソフト(Sumatra PDF等)を立ち上げておく  
+pdf 閲覧ソフト(Sumatra PDF等)を立ち上げておく 
 </li>
-
 <li>
 コントロール 設定 映像  
 基本(キャンバス)解像度　出力(スケーリング)解像度　はどちらも1280x720  
 FPS共通値は30　OK  
-(FPS は Frame per Second の略で、1秒間の動画で見せる静止画の枚数（コマ数))  
+(FPS は Frame per Second の略で、1秒間の動画で見せる静止画の枚数（コマ数))
 </li>
-
 <li>
 シーンを右クリック  
 名前を変更　「カメラ」 入力    
@@ -47,10 +46,9 @@ FPS共通値は30　OK
 入力した名前のプロパティが開く  
 解像度/FPS タイプ　カスタム    
 解像度 1280x720 選択 OK  
-映像画面 カメラの映像を好みの大きさ・位置に ロックプレビュー　check　　
-</li>
-  
-<li> 
+映像画面 カメラの映像を好みの大きさ・位置に ロックプレビュー　check　
+</li>  
+<li>
 シーンの下の＋をクリック
 「PDF+カメラ」 入力　OK  
 ソースの下の＋をクリック  
@@ -63,12 +61,10 @@ FPS共通値は30　OK
 映像画面 カメラとPDFの映像を好みの大きさ・位置に　ロックプレビュー　check  
 <img src="./readme_images/obs_disktop.png">   
 </li>
-
 <li>
 右の PDF閲覧ソフトの画面をclickしてスクロール  
 左のOBSの画面もそれに伴って動く筈です。  
 録画開始をclickし、シーンを切り替え、好みの授業動画を作ってみてください。  
 DEMO→[YouTube](https://www.youtube.com/watch?v=ogxKhS5n1Gk) (CPU 1.20GHz, 4GB のためスムーズな映像ではありません)
 </li>
-
 </ol>
