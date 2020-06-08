@@ -27,7 +27,6 @@ Web ブラウザ(Google Chrome 等) でも閲覧可能
 
 ### OBS Studio の使い方
 <ol>
-	
 <li>
 pdf 閲覧ソフト(Sumatra PDF等)を立ち上げておく  
 </li>
