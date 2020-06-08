@@ -55,8 +55,7 @@ FPS共通値は30　OK
 ソースの下の＋をクリック  
 既存を追加　OK  
 カメラの映像は 順序→最上部に移動  
-映像画面 カメラとPDFの映像を好みの大きさ・位置に　ロックプレビュー　check  
-これで下のような画面になる筈です。<img src="./readme_images/obs_disktop.png">   
+映像画面 カメラとPDFの映像を好みの大きさ・位置に　ロックプレビュー　check<img src="./readme_images/obs_disktop.png">   
 
 1. 右の PDF閲覧ソフトの画面をclickしてスクロール  
 左のOBSの画面もそれに伴って動く筈です。  
