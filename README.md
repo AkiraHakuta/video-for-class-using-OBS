@@ -31,7 +31,8 @@ Web ブラウザ(Google Chrome 等) でも閲覧可能
 
 ### OBS Studio の使い方
 
-1. pdf 閲覧ソフト(Sumatra PDF等)を立ち上げておく  
+1. pdf 閲覧ソフト(Sumatra PDF等)を立ち上げ、    
+適当なpdfファイル(euclidean_algorithm.pdf 等)を開いておく  
 
 1. コントロール 設定 映像  
 基本(キャンバス)解像度　出力(スケーリング)解像度　はどちらも1280x720  
