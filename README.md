@@ -4,6 +4,9 @@ DEMO→[YouTube](https://www.youtube.com/watch?v=ogxKhS5n1Gk)を見てくださ�
 比較的簡単に作れます  
 Windowsで動作確認していますが、他のOSでも多分同様  
 
+###  OBS Studio とは  
+OBS studio(Open Broadcaster Software) はビデオ録画と生放送用の無料でオープンソースのソフトウェア
+
 ### OBS Studio の動作環境  
 「OBS Studio の Windows リリースでは、Windows 8、8.1 および 10 をサポートしています」
 の記載があるのみ  
@@ -11,7 +14,7 @@ CPU Core i5 , RAM 8GB 以上がスムーズに動く環境だと思うのです�
 それ以下の環境でもある程度は録画可能  
 DEMO動画は CPU 1.20GHz, 4GB のためスムーズな映像ではない  
 
-### 周辺機器
+### 必要な周辺機器
 - パソコン内蔵カメラ または、外付けのwebカメラ(現在品薄)
 - スキャナー(pdf 作成のため)  
 
