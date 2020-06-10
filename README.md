@@ -5,7 +5,7 @@ DEMO→[YouTube](https://www.youtube.com/watch?v=ogxKhS5n1Gk)を見てくださ�
 Windowsで動作確認していますが、他のOSでも多分同様  
 
 ###  OBS Studio とは  
-[OBS studio](https://obsproject.com)(Open Broadcaster Software) はビデオ録画と生放送用の無料でオープンソースのソフトウェア
+[OBS Studio](https://obsproject.com)(Open Broadcaster Software) はビデオ録画と生放送用の無料でオープンソースのソフトウェア
 
 ### OBS Studio の動作環境  
 「OBS Studio の Windows リリースでは、Windows 8、8.1 および 10 をサポートしています」
