@@ -1,4 +1,4 @@
-## OBS Studio を用いた授業動画の作成 (Japanese version only)  
+## OBS Studio で授業動画を作る (Japanese version only)  
 
 DEMO→[YouTube](https://www.youtube.com/watch?v=ogxKhS5n1Gk)を見てください  
 比較的簡単に作れます  
