@@ -1,7 +1,7 @@
 ## OBS Studio を用いた授業動画の作成 (Japanese version only)  
 
 DEMO→[YouTube](https://www.youtube.com/watch?v=ogxKhS5n1Gk)を見てください  
-この程度の動画であれば、簡単に作れます  
+比較的簡単に作れます  
 Windowsで動作確認していますが、他のOSでも多分同様です  
 
 ### OBS Studio の動作環境  
