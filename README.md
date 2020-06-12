@@ -1,25 +1,25 @@
 ## OBS Studio で授業動画を作る (Japanese version only)  
 
-[DEMO](https://www.youtube.com/watch?v=ogxKhS5n1Gk)(YouTube)を見てください  
+[Demo](https://www.youtube.com/watch?v=ogxKhS5n1Gk) (YouTube) を見てください  
 比較的簡単に作れます  
 Windowsで動作確認していますが、他のOSでも多分同様  
 
 ###  OBS Studio とは  
-[OBS Studio](https://obsproject.com)(Open Broadcaster Software) はビデオ録画と生放送用の無料でオープンソースのソフトウェア
+[OBS Studio](https://obsproject.com) (Open Broadcaster Software) はビデオ録画と生放送用の無料でオープンソースのソフトウェア
 
 ### OBS Studio の動作環境  
 「OBS Studio の Windows リリースでは、Windows 8、8.1 および 10 をサポートしています」
 の記載があるのみ  
 CPU Core i5 , RAM 8GB 以上がスムーズに動く環境だと思うのですが、  
 それ以下の環境でもある程度は録画可能  
-DEMO動画は CPU 1.20GHz, 4GB のためスムーズな映像ではない  
+Demo動画は CPU 1.20GHz, 4GB のためスムーズな映像ではない  
 
 ### 必要な周辺機器
-- パソコン内蔵カメラ または、外付けのwebカメラ(現在品薄)
-- スキャナー(pdf 作成のため)  
+- パソコン内蔵カメラ または、外付けのwebカメラ (現在品薄)
+- スキャナー (pdf 作成のため)  
 
 ### インストール
-- [OBS Studio](https://obsproject.com/ja/download)(日本語版) 
+- [OBS Studio](https://obsproject.com/ja/download) (日本語版) 
 ダウンロード、インストーラをクリック  
 OBS-Studio-25.0.8-Full-Installer-x64.exeを実行  
 C:\Program Files\obs-studioにインストール  
@@ -30,24 +30,31 @@ C:\Program Files\obs-studioにインストール
 - pdf 閲覧ソフト  
 [AdobeAcrobatReaderDC](https://get.adobe.com/jp/reader/) 一番よく使われているが、重い  
 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) 小さい、軽い、私のおすすめ  
-Web ブラウザ(Google Chrome 等) でも閲覧可能  
+Web ブラウザ (Google Chrome 等) でも閲覧可能  
+
+- pdf 編集ソフト  
+pdfファイルの結合、ページの分割・抽出・削除ができると便利です  
+私は [pdf_as](http://uchijyu.s601.xrea.com/wordpress/pdf_as/) (ダウンロードして zipファイル を解凍) を使っています  
+
+&emsp; ※ OBS Studio, Sumatra PDF, pdf_as はフリーソフト  
+
 
 ### OBS Studio の使い方
 
-1. pdf 閲覧ソフト(Sumatra PDF等)を立ち上げ、    
-適当なpdfファイル(euclidean_algorithm.pdf 等)を開いておく  
+1. pdf 閲覧ソフト (Sumatra PDF等)を立ち上げ、    
+適当な pdfファイル (euclidean_algorithm.pdf 等)を開いておく  
 
 1. コントロール 設定 映像  
 基本(キャンバス)解像度　出力(スケーリング)解像度　はどちらも1280x720  
 FPS共通値は30　OK  
-(FPS は Frame per Second の略で、1秒間の動画で見せる静止画の枚数（コマ数))  
+(FPS は Frame per Second の略で、1秒間の動画で見せる静止画の枚数（コマ数) )  
 設定 音声 マイク音声 既定 or 適当なマイク   
 
 1. シーンを右クリック  
 名前を変更　「カメラ」 入力    
 ソースの下の＋をクリック  
 映像キャプチャデバイス 新規作成　名前を入力　OK 
-デバイス　選択(内臓カメラ または 外付けwebカメラの名前) OK  
+デバイス　選択 (内臓カメラ または 外付けwebカメラの名前) OK  
 入力した名前のプロパティが開く  
 解像度/FPS タイプ　カスタム    
 解像度 1280x720 選択 OK  
@@ -67,7 +74,7 @@ FPS共通値は30　OK
 映像画面 カメラとPDFの映像を好みの大きさ・位置に　ロックプレビュー  check  
 　<img src="./readme_images/obs_disktop.png">   
 
-1. 右の PDF閲覧ソフトの画面をclickしてスクロール  
+1. 右の pdf閲覧ソフトの画面をclickしてスクロール  
 左のOBSの画面もそれに伴って動く筈です  
 録画開始をclickし、シーンを切り替え、好みの授業動画を作ってみてください  
 
