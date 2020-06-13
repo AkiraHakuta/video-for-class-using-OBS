@@ -33,7 +33,7 @@ C:\Program Files\obs-studioにインストール
 Web ブラウザ (Google Chrome 等) でも閲覧可能  
 
 - pdf 編集ソフト  
-pdfファイルの結合、ページの分割・抽出・削除ができると便利です  
+pdfファイルの結合・ページの分割ができると便利です  
 私は [pdf_as](http://uchijyu.s601.xrea.com/wordpress/pdf_as/) (ダウンロードして zipファイル を解凍) を使っています  
 
 &emsp; ※ Sumatra PDF, pdf_as はフリーソフト  
