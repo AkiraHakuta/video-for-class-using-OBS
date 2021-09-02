@@ -1,6 +1,6 @@
 ## OBS Studio で授業動画を作る (Japanese version only)  
 
-[Demo](https://www.youtube.com/watch?v=ogxKhS5n1Gk) (YouTube) を見てください  
+[Demo](https://youtu.be/pY6ZZdUQLJQ) (YouTube) を見てください  
 比較的簡単に作れます  
 Windowsで動作確認していますが、他のOSでも多分同様  
 
